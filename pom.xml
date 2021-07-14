@@ -23,7 +23,13 @@
             <url>https://dl.bintray.com/sedmelluq/com.sedmelluq</url>
         </repository>
     </repositories>
-    
+    <dependencies>
+        <groupId>Discord.js11.8</groupId>
+        <atrifactId>Discord.js</artifactId>
+        <version>12.0.0</version>
+
+    </dependencies>
+
     <dependencies>
         <dependency>
             <groupId>net.dv8tion</groupId> 
